@@ -1,0 +1,15 @@
+{
+  "title": "Minority",
+  "description": "manga description",
+  "artist": "Hinoon",
+  "author": "Hinoon",
+  "cover": "https://thumb.pann.com/tc_480/http://fimg4.pann.com/new/download.jsp?FileID=45584585",
+  "chapters": {
+    "1": {
+      "title": "Chapter 1",
+      "volume": "Season 1",
+      "groups": {"VVS": "/proxy/api/imgur/chapter/GeKrwk9/"},
+      "last_updated": "1621690802"
+    }
+  }
+}
